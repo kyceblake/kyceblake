@@ -4,7 +4,7 @@ I also love tinkering with IoT devices (esp8266, OrangePi)
 
 ## General
 ✏️ &ensp; JavaScript/TypeScript, React <br/>
-💻 &ensp; Arch Linux, Bash, Git, VSCodium, Ansible, Docker <br/>
+💻 &ensp; Arch Linux, Gentoo(low-end PCs), Bash, Git, VSCodium, Ansible, Docker <br/>
 🎓 &ensp; Computing machines, complexes, systems and networks
 
 ## Projects
