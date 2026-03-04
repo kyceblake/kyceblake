@@ -1,5 +1,5 @@
 # Kyle Blake
-I'm 23 years old, just doing whatever I can to make life more comfortable. <br /> 
+I'm 24 years old, just doing whatever I can to make life more comfortable. <br /> 
 You can check my pinned repos below to see the apps I've developed.
 
 ## Stack
